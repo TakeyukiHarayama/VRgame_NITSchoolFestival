@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRShooting_v081.CSharp", "VRShooting_v081.CSharp.csproj", "{B4A37C34-3456-1167-721E-6655E4CD7432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRShooting_v081.CSharp.Editor", "VRShooting_v081.CSharp.Editor.csproj", "{20CAB5C8-3245-4A73-BE56-0991CBA51B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A37C34-3456-1167-721E-6655E4CD7432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A37C34-3456-1167-721E-6655E4CD7432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A37C34-3456-1167-721E-6655E4CD7432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A37C34-3456-1167-721E-6655E4CD7432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CAB5C8-3245-4A73-BE56-0991CBA51B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CAB5C8-3245-4A73-BE56-0991CBA51B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CAB5C8-3245-4A73-BE56-0991CBA51B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CAB5C8-3245-4A73-BE56-0991CBA51B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
